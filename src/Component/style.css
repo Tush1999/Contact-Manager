@@ -1,0 +1,98 @@
+.search-div {
+  height: 40px;
+}
+.user {
+  width: 200px;
+}
+.block {
+  margin-top: 20px;
+  background-color: lightblue;
+  width: 250px;
+}
+.main-block {
+  width: 70%;
+  margin: auto;
+}
+.content {
+  text-align: center;
+  font-weight: bold;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+form {
+  padding: 20px;
+  width: 70%;
+  background-color: #8080801a;
+  margin: auto;
+  height: 320px;
+}
+label {
+  display: block;
+}
+
+input {
+  margin: 5px;
+  border: 1px solid grey;
+  width: 800px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.submit-btn {
+  color: white;
+  background-color: green;
+  border-radius: 2px;
+  height: 30px;
+  border-radius: 8px;
+  width: 90px;
+  font-weight: bold;
+}
+.first,
+.last,
+.email {
+  margin-bottom: 3px;
+}
+.select {
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+  color: red;
+}
+.first-div,
+.last-div,
+.email-div {
+  margin-bottom: 20px;
+}
+img {
+  padding-left: 70px;
+}
+
+input[type="search"] {
+  margin-left: 180px;
+  height: 30px;
+  width: 300px;
+}
+.inner-flex {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 350px;
+  background-color: lightblue;
+}
+.flex-box {
+  width: 90%;
+  margin: auto;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+}
+.remove-btn {
+  padding-left: 5px;
+  color: red;
+  font-size: bold;
+  background: transparent;
+  box-shadow: 0px 0px 0px transparent;
+  border: 0px solid transparent;
+  text-shadow: 0px 0px 0px transparent;
+}
